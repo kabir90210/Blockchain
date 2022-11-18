@@ -22,3 +22,6 @@ https://docs.google.com/document/d/1iiVknBt2u3MRmyMoG5BFCVB6_iR-t40V8pXE7qp5Z0Y/
 
 POW vs POS: 
 https://www.geeksforgeeks.org/difference-between-proof-of-work-pow-and-proof-of-stake-pos-in-blockchain/
+
+final:
+https://github.com/aaryanshsahay/Blockchain101_aaryansh/blob/main/contracts/roro.md
